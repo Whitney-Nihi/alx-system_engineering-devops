@@ -9,4 +9,5 @@ README describing my shell permissions scripts
 -7-everybody - adds execution permission to the owner, the group owner and the other users, to the file hello
 -8-James_Bond - sets no permission to owner and group and sets full permission to others
 -9-John_Doe - sets the mode of the file 'hello' to -rwxr-x-wx 
--10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode 
+-10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode
+-11-directories_permissions - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users 
