@@ -15,3 +15,4 @@ README displaying a list of my shell redirection scripts and their functions
 -13-unique - makes words unique
 -14-findthatword - displays line in file that contains a pattern
 -15-countthatword - counts word in a file
+-16-whatsnext - displays line containing a pattern and 3 lines after
