@@ -6,5 +6,6 @@ README displaying a list of my shell redirection scripts and their functions
 -4-lastlines - Display the last 10 lines of /etc/passwd.
 -5-firstlines - displays the first 10 lines of /etc/passwd.
 -6-third_line - displays the third line of the file iacta.
+-7-file - creates a file.
 -8-cwd_state - writes result of command into file.
 -9-duplicate_last_line - duplicates the last line of a file
