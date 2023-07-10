@@ -12,3 +12,4 @@ README displaying a list of my shell redirection scripts and their functions
 -11-directories - counts the number of directories and subdirectories
 -12-newest_files - displays 10 newest files.
 -13-unique - makes words unique
+-14-findthatword - displays line in file that contains a pattern
