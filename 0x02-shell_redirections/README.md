@@ -21,3 +21,4 @@ README displaying a list of my shell redirection scripts and their functions
 -19-AZ - replaces characters
 -20-hiago - removes letters from text
 -21-reverse - reverses input
+-22-users_and_homes - displays all users and their home directories, sorted by users.
