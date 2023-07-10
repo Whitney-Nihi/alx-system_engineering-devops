@@ -20,3 +20,4 @@ README displaying a list of my shell redirection scripts and their functions
 -18-letteronly - display all lines of the file /etc/ssh/sshd_config starting with a letter.
 -19-AZ - replaces characters
 -20-hiago - removes letters from text
+-21-reverse - reverses input
