@@ -17,3 +17,4 @@ README displaying a list of my shell redirection scripts and their functions
 -15-countthatword - counts word in a file
 -16-whatsnext - displays line containing a pattern and 3 lines after
 -17-hidethisword - display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+-18-letteronly - display all lines of the file /etc/ssh/sshd_config starting with a letter.
