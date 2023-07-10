@@ -16,3 +16,4 @@ README displaying a list of my shell redirection scripts and their functions
 -14-findthatword - displays line in file that contains a pattern
 -15-countthatword - counts word in a file
 -16-whatsnext - displays line containing a pattern and 3 lines after
+-17-hidethisword - display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
