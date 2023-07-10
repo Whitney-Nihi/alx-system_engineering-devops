@@ -9,3 +9,4 @@ README displaying a list of my shell redirection scripts and their functions
 -7-file - creates a file.
 -8-cwd_state - writes result of command into file.
 -9-duplicate_last_line - duplicates the last line of a file
+-11-directories - counts the number of directories and subdirectories
