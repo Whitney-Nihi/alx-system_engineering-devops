@@ -5,3 +5,4 @@ README file display a list of my 0x03-shell_variables_expansions scripts and the
 -3-paths - displays the number of directories in PATH variable
 -4-global_variables - displays list of environment variables
 -5-local_variables - displays list of all variables and functions
+-6-create_local_variable - creates a new local variable
